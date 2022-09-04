@@ -14,7 +14,7 @@ export default function Hero() {
   return (
     <HeroWrapper>
       <Contents>
-        <CustomOverTitle>the coolest, saas product you have ever seen</CustomOverTitle>
+        <CustomOverTitle>I can do anything with this</CustomOverTitle>
         <Heading>Make your life easier with our SaaS</Heading>
         <Description>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis, tempora qui. Explicabo voluptate iure ipsum molestias
